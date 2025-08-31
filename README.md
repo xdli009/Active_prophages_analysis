@@ -14,5 +14,9 @@ The following is a description of all these files.
 ## Analysis_of_functional_gene_organization                                              
   * #### get_arrangement.py
       Python script for determining the relative arrangement of functional gene categories across all member prophages.
+
+## Reconstruction_of_the_evolutionary_history                                              
+  * #### get_range.py
+      Python script for extracting information on other prophages exhibiting homologous regions exceeding 5 kbp with the active prophage.
     
       
